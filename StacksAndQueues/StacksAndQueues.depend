@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1438320653 source:c:\users\john\desktop\programs\data structures\stacksandqueues\main.cpp
+	<iostream>
+	"ArrayQueue.h"
+	"ArrayStack.h"
+	"ListQueue.h"
+	"ListStack.h"
+
+1438315998 c:\users\john\desktop\programs\data structures\stacksandqueues\arraystack.h
+	<iostream>
+	"Stack.h"
+
+1438307996 c:\users\john\desktop\programs\data structures\stacksandqueues\stack.h
+
+1438320709 c:\users\john\desktop\programs\data structures\stacksandqueues\liststack.h
+	<iostream>
+	<stdlib.h>
+	"Stack.h"
+
+1438315072 c:\users\john\desktop\programs\data structures\stacksandqueues\listqueue.h
+	<iostream>
+	"Queue.h"
+
+1438311850 c:\users\john\desktop\programs\data structures\stacksandqueues\queue.h
+
+1438318127 c:\users\john\desktop\programs\data structures\stacksandqueues\arrayqueue.h
+	<iostream>
+	"Queue.h"
+

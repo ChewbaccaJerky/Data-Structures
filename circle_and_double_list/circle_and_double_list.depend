@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1439755534 source:c:\users\john\desktop\programs\data structures\circle_and_double_list\main.cpp
+	<iostream>
+	"DLinkedList.h"
+	"CLinkedList.h"
+
+1439752099 c:\users\john\desktop\programs\data structures\circle_and_double_list\dlinkedlist.h
+	<iostream>
+	"List.h"
+
+1439713428 c:\users\john\desktop\programs\data structures\circle_and_double_list\list.h
+	<iostream>
+
+1439755844 c:\users\john\desktop\programs\data structures\circle_and_double_list\clinkedlist.h
+	<iostream>
+	"List.h"
+

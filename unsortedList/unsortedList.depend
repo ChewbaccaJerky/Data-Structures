@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1437711461 source:c:\users\john\desktop\programs\data structures\unsortedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"ArrayList.h"
+
+1437711478 c:\users\john\desktop\programs\data structures\unsortedlist\linkedlist.h
+	"List.h"
+	<String>
+	<iostream>
+
+1437339662 c:\users\john\desktop\programs\data structures\unsortedlist\list.h
+
+1437710885 c:\users\john\desktop\programs\data structures\unsortedlist\arraylist.h
+	"List.h"
+	<iostream>
+

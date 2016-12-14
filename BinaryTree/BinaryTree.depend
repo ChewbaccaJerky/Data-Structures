@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1440370314 source:c:\users\john\desktop\programs\data structures\binarytree\main.cpp
+	<iostream>
+	"LinkedBST.h"
+
+1440370302 c:\users\john\desktop\programs\data structures\binarytree\linkedbst.h
+	"LBST.h"
+	<iostream>
+
+1440367977 c:\users\john\desktop\programs\data structures\binarytree\lbst.h
+	<iostream>
+

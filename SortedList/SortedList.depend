@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1437952784 source:c:\users\john\desktop\programs\data structures\sortedlist\main.cpp
+	<iostream>
+	"OrderedLinkedList.h"
+	"OrderedArrayList.h"
+
+1437940945 c:\users\john\desktop\programs\data structures\sortedlist\orderedlinkedlist.h
+	<iostream>
+	<string>
+	<iomanip>
+	"List.h"
+
+1437948471 c:\users\john\desktop\programs\data structures\sortedlist\list.h
+	<iostream>
+	<string>
+
+1437952824 c:\users\john\desktop\programs\data structures\sortedlist\orderedarraylist.h
+	<iostream>
+	<iomanip>
+	<string>
+	"List.h"
+

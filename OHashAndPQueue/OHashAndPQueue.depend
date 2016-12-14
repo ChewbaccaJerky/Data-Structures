@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1441067816 source:c:\users\john\desktop\programs\data structures\ohashandpqueue\main.cpp
+	<iostream>
+	"OHash.h"
+
+1441067834 c:\users\john\desktop\programs\data structures\ohashandpqueue\ohash.h
+	<iostream>
+	<string>
+	"Hash.h"
+
+1441063632 c:\users\john\desktop\programs\data structures\ohashandpqueue\hash.h
+	<iostream>
+	<string>
+
